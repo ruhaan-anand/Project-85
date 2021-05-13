@@ -1,0 +1,17 @@
+body{
+    background-image: url(car-racing.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myCanvas{
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+h4{
+
+	color: white;
+}
+#whoWon{
+	color: black;
+}
